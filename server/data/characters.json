@@ -1,0 +1,625 @@
+[
+  {
+    "id": "1",
+    "name": "Mario",
+    "series": "Super Mario",
+    "smashDebut": "N64",
+    "yearIntroduced": "1981"
+  },
+  {
+    "id": "2",
+    "name": "Donkey Kong",
+    "series": "Donkey Kong",
+    "smashDebut": "N64",
+    "yearIntroduced": "1981"
+  },
+  {
+    "id": "3",
+    "name": "Link",
+    "series": "The Legend of Zelda",
+    "smashDebut": "N64",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "4",
+    "name": "Samus",
+    "series": "Metroid",
+    "smashDebut": "N64",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "4.5",
+    "name": "Dark Samus",
+    "series": "Metroid",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2004"
+  },
+  {
+    "id": "5",
+    "name": "Yoshi",
+    "series": "Yoshi",
+    "smashDebut": "N64",
+    "yearIntroduced": "1990"
+  },
+  {
+    "id": "6",
+    "name": "Kirby",
+    "series": "Kirby",
+    "smashDebut": "N64",
+    "yearIntroduced": "1992"
+  },
+  {
+    "id": "7",
+    "name": "Fox",
+    "series": "Star Fox",
+    "smashDebut": "N64",
+    "yearIntroduced": "1993"
+  },
+  {
+    "id": "8",
+    "name": "Pikachu",
+    "series": "Pokemon",
+    "smashDebut": "N64",
+    "yearIntroduced": "1996"
+  },
+  {
+    "id": "9",
+    "name": "Luigi",
+    "series": "Super Mario",
+    "smashDebut": "N64",
+    "yearIntroduced": "1983"
+  },
+  {
+    "id": "10",
+    "name": "Ness",
+    "series": "Earthbound",
+    "smashDebut": "N64",
+    "yearIntroduced": "1994"
+  },
+  {
+    "id": "11",
+    "name": "Captain Falcon",
+    "series": "F-Zero",
+    "smashDebut": "N64",
+    "yearIntroduced": "1990"
+  },
+  {
+    "id": "12",
+    "name": "Jigglypuff",
+    "series": "Pokemon",
+    "smashDebut": "N64",
+    "yearIntroduced": "1996"
+  },
+  {
+    "id": "13",
+    "name": "Peach",
+    "series": "Super Mario",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1985"
+  },
+  {
+    "id": "13.5",
+    "name": "Daisy",
+    "series": "Super Mario",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1989"
+  },
+  {
+    "id": "14",
+    "name": "Bowser",
+    "series": "Super Mario",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1985"
+  },
+  {
+    "id": "15",
+    "name": "Ice Climbers",
+    "series": "Ice Climber",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1985"
+  },
+  {
+    "id": "16",
+    "name": "Sheik",
+    "series": "The Legend of Zelda",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1998"
+  },
+  {
+    "id": "17",
+    "name": "Zelda",
+    "series": "The Legend of Zelda",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "18",
+    "name": "Dr. Mario",
+    "series": "Super Mario",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1990"
+  },
+  {
+    "id": "19",
+    "name": "Pichu",
+    "series": "Pokemon",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1999"
+  },
+  {
+    "id": "20",
+    "name": "Falco",
+    "series": "Star Fox",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1993"
+  },
+  {
+    "id": "21",
+    "name": "Marth",
+    "series": "Fire Emblem",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1990"
+  },
+  {
+    "id": "21.5",
+    "name": "Lucina",
+    "series": "Fire Emblem",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2012"
+  },
+  {
+    "id": "22",
+    "name": "Young Link",
+    "series": "The Legend of Zelda",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1998"
+  },
+  {
+    "id": "23",
+    "name": "Ganondorf",
+    "series": "The Legend of Zelda",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1998"
+  },
+  {
+    "id": "24",
+    "name": "Mewtwo",
+    "series": "Pokemon",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1996"
+  },
+  {
+    "id": "25",
+    "name": "Roy",
+    "series": "Fire Emblem",
+    "smashDebut": "Melee",
+    "yearIntroduced": "2001"
+  },
+  {
+    "id": "25.5",
+    "name": "Chrom",
+    "series": "Fire Emblem",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2012"
+  },
+  {
+    "id": "26",
+    "name": "Mr. Game & Watch",
+    "series": "Game & Watch",
+    "smashDebut": "Melee",
+    "yearIntroduced": "1980"
+  },
+  {
+    "id": "27",
+    "name": "Meta Knight",
+    "series": "Kriby",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1993"
+  },
+  {
+    "id": "28",
+    "name": "Pit",
+    "series": "Kid Icarus",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "28.5",
+    "name": "Dark Pit",
+    "series": "Kid Icarus",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2012"
+  },
+  {
+    "id": "29",
+    "name": "Zero Suit Samus",
+    "series": "Metroid",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "2004"
+  },
+  {
+    "id": "30",
+    "name": "Wario",
+    "series": "Wario",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1992"
+  },
+  {
+    "id": "31",
+    "name": "Snake",
+    "series": "Metal Gear",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1987"
+  },
+  {
+    "id": "32",
+    "name": "Ike",
+    "series": "Fire Emblem",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "2005"
+  },
+  {
+    "id": "33",
+    "name": "Squirtle",
+    "series": "Pokemon",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1996"
+  },
+  {
+    "id": "34",
+    "name": "Ivysaur",
+    "series": "Pokemon",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1996"
+  },
+  {
+    "id": "35",
+    "name": "Charizard",
+    "series": "Pokemon",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1996"
+  },
+  {
+    "id": "36",
+    "name": "Diddy Kong",
+    "series": "Donkey Kong",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1994"
+  },
+  {
+    "id": "37",
+    "name": "Lucas",
+    "series": "Earthbound",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "2006"
+  },
+  {
+    "id": "38",
+    "name": "Sonic",
+    "series": "Sonic The Hedgehog",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1991"
+  },
+  {
+    "id": "39",
+    "name": "King Dedede",
+    "series": "Kirby",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1992"
+  },
+  {
+    "id": "40",
+    "name": "Olimar",
+    "series": "Pikmin",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "2001"
+  },
+  {
+    "id": "41",
+    "name": "Lucario",
+    "series": "Pokemon",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "2006"
+  },
+  {
+    "id": "42",
+    "name": "R.O.B.",
+    "series": "R.O.B.",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1985"
+  },
+  {
+    "id": "43",
+    "name": "Toon Link",
+    "series": "The Legend of Zelda",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "2002"
+  },
+  {
+    "id": "44",
+    "name": "Wolf",
+    "series": "Star Fox",
+    "smashDebut": "Brawl",
+    "yearIntroduced": "1997"
+  },
+  {
+    "id": "45",
+    "name": "Villager",
+    "series": "Animal Crossing",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2001"
+  },
+  {
+    "id": "46",
+    "name": "Mega Man",
+    "series": "Mega Man",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "1987"
+  },
+  {
+    "id": "47",
+    "name": "Wii Fit Trainer",
+    "series": "Wii Fit",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2007"
+  },
+  {
+    "id": "48",
+    "name": "Rosalina",
+    "series": "Super Mario",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2007"
+  },
+  {
+    "id": "49",
+    "name": "Little Mac",
+    "series": "Punch-Out!!",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "1983"
+  },
+  {
+    "id": "50",
+    "name": "Greninja",
+    "series": "Pokemon",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2013"
+  },
+  {
+    "id": "51",
+    "name": "Mii Brawler",
+    "series": "Mii",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2006"
+  },
+  {
+    "id": "52",
+    "name": "Mii Swordfighter",
+    "series": "Mii",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2006"
+  },
+  {
+    "id": "53",
+    "name": "Mii Gunner",
+    "series": "Mii",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2006"
+  },
+  {
+    "id": "54",
+    "name": "Palutena",
+    "series": "Kid Icarus",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "55",
+    "name": "Pac-Man",
+    "series": "Pac-Man",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "1980"
+  },
+  {
+    "id": "56",
+    "name": "Robin",
+    "series": "Fire Emblem",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2012"
+  },
+  {
+    "id": "57",
+    "name": "Shulk",
+    "series": "Xenoblade",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2010"
+  },
+  {
+    "id": "58",
+    "name": "Bowser Jr.",
+    "series": "Super Mario",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2002"
+  },
+  {
+    "id": "59",
+    "name": "Duck Hunt",
+    "series": "Duck Hunt",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "1984"
+  },
+  {
+    "id": "60",
+    "name": "Ryu",
+    "series": "Street Fighter",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "1987"
+  },
+  {
+    "id": "60.5",
+    "name": "Ken",
+    "series": "Street Fighter",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1987"
+  },
+  {
+    "id": "61",
+    "name": "Cloud",
+    "series": "Final Fantasy",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "1997"
+  },
+  {
+    "id": "62",
+    "name": "Corrin",
+    "series": "Fire Emblem",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2015"
+  },
+  {
+    "id": "63",
+    "name": "Bayonetta",
+    "series": "Bayonetta",
+    "smashDebut": "SSB4",
+    "yearIntroduced": "2009"
+  },
+  {
+    "id": "64",
+    "name": "Inkling",
+    "series": "Splatoon",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2015"
+  },
+  {
+    "id": "65",
+    "name": "Ridley",
+    "series": "Metroid",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "66",
+    "name": "Simon",
+    "series": "Castlevania",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "66.5",
+    "name": "Richter",
+    "series": "Castlevania",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1993"
+  },
+  {
+    "id": "67",
+    "name": "King K. Rool",
+    "series": "Donkey Kong",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1994"
+  },
+  {
+    "id": "68",
+    "name": "Isabelle",
+    "series": "Animal Crossing",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2012"
+  },
+  {
+    "id": "69",
+    "name": "Incineroar",
+    "series": "Pokemon",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2016"
+  },
+  {
+    "id": "70",
+    "name": "Piranha Plant",
+    "series": "Super Mario",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1985"
+  },
+  {
+    "id": "71",
+    "name": "Joker",
+    "series": "Persona",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2015"
+  },
+  {
+    "id": "72",
+    "name": "Hero",
+    "series": "Dragon Quest",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1986"
+  },
+  {
+    "id": "73",
+    "name": "Banjo & Kazooie",
+    "series": "Banjo-Kazooie",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1998"
+  },
+  {
+    "id": "74",
+    "name": "Terry",
+    "series": "Fatal Fury",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1991"
+  },
+  {
+    "id": "75",
+    "name": "Byleth",
+    "series": "Fire Emblem",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2019"
+  },
+  {
+    "id": "76",
+    "name": "Min Min",
+    "series": "ARMS",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2017"
+  },
+  {
+    "id": "77",
+    "name": "Steve",
+    "series": "Minecraft",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2009"
+  },
+  {
+    "id": "78",
+    "name": "Sephiroth",
+    "series": "Final Fantasy",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1997"
+  },
+  {
+    "id": "79",
+    "name": "Pyra",
+    "series": "Xenoblade",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2017"
+  },
+  {
+    "id": "80",
+    "name": "Mythra",
+    "series": "Xenoblade",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2017"
+  },
+  {
+    "id": "81",
+    "name": "Kazuya",
+    "series": "Tekken",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "1994"
+  },
+  {
+    "id": "82",
+    "name": "Sora",
+    "series": "Kingdom Hearts",
+    "smashDebut": "Ultimate",
+    "yearIntroduced": "2002"
+  }
+]
