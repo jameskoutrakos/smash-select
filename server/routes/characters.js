@@ -24,7 +24,19 @@ router.get("/:id", (req, res) => {
   res.json(foundChar);
 });
 
-router.get("/series/:smashDebut", (req, res) => {
+router.get("/series/:series", (req, res) => {
+  const charData = getCharacters();
+  const reqCharSeries = req.params.series;
+  const foundChar = charData.filter((char) => {
+    return char.series === reqCharSeries;
+  });
+  if (!foundChar) {
+    res.status(404).send("Character not found");
+  }
+  res.json(foundChar);
+});
+
+router.get("/smashdebut/:smashDebut", (req, res) => {
   const charData = getCharacters();
   const reqCharDebut = req.params.smashDebut;
   const foundChar = charData.filter((char) => {
