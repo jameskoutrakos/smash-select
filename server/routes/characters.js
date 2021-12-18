@@ -10,7 +10,7 @@ router.get("/", (req, res) => {
   res.json(charData);
 });
 
-router.get("/:id", (req, res) => {
+router.get("/select/:id", (req, res) => {
   const charData = getCharacters();
   const reqCharID = req.params.id;
   const foundChar = charData.find((char) => {
