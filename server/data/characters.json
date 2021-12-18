@@ -2,6 +2,7 @@
   {
     "id": "1",
     "name": "Mario",
+    "squarePicture": "http://localhost:8080/images/square/marioS.png",
     "series": "super-mario",
     "smashDebut": "n64",
     "yearIntroduced": "1981"
@@ -9,6 +10,7 @@
   {
     "id": "2",
     "name": "Donkey Kong",
+    "squarePicture": "http://localhost:8080/images/square/dkS.png",
     "series": "donkey-kong",
     "smashDebut": "n64",
     "yearIntroduced": "1981"
@@ -16,6 +18,7 @@
   {
     "id": "3",
     "name": "Link",
+    "squarePicture": "http://localhost:8080/images/square/linkS.png",
     "series": "the-legend-of-zelda",
     "smashDebut": "n64",
     "yearIntroduced": "1986"
@@ -23,6 +26,7 @@
   {
     "id": "4",
     "name": "Samus",
+    "squarePicture": "http://localhost:8080/images/square/samusS.png",
     "series": "metroid",
     "smashDebut": "n64",
     "yearIntroduced": "1986"
@@ -30,6 +34,7 @@
   {
     "id": "4-5",
     "name": "Dark Samus",
+    "squarePicture": "http://localhost:8080/images/square/darksamusS.png",
     "series": "metroid",
     "smashDebut": "ultimate",
     "yearIntroduced": "2004"
@@ -37,6 +42,7 @@
   {
     "id": "5",
     "name": "Yoshi",
+    "squarePicture": "http://localhost:8080/images/square/yoshiS.png",
     "series": "yoshi",
     "smashDebut": "n64",
     "yearIntroduced": "1990"
@@ -44,6 +50,7 @@
   {
     "id": "6",
     "name": "Kirby",
+    "squarePicture": "http://localhost:8080/images/square/kirbyS.png",
     "series": "kirby",
     "smashDebut": "n64",
     "yearIntroduced": "1992"
@@ -51,6 +58,7 @@
   {
     "id": "7",
     "name": "Fox",
+    "squarePicture": "http://localhost:8080/images/square/foxS.png",
     "series": "star-fox",
     "smashDebut": "n64",
     "yearIntroduced": "1993"
@@ -58,6 +66,7 @@
   {
     "id": "8",
     "name": "Pikachu",
+    "squarePicture": "http://localhost:8080/images/square/pikachuS.png",
     "series": "pokemon",
     "smashDebut": "n64",
     "yearIntroduced": "1996"
@@ -65,6 +74,7 @@
   {
     "id": "9",
     "name": "Luigi",
+    "squarePicture": "http://localhost:8080/images/square/luigiS.png",
     "series": "super-mario",
     "smashDebut": "n64",
     "yearIntroduced": "1983"
@@ -72,6 +82,7 @@
   {
     "id": "10",
     "name": "Ness",
+    "squarePicture": "http://localhost:8080/images/square/nessS.png",
     "series": "earthbound",
     "smashDebut": "n64",
     "yearIntroduced": "1994"
@@ -79,6 +90,7 @@
   {
     "id": "11",
     "name": "Captain Falcon",
+    "squarePicture": "http://localhost:8080/images/square/captainfalconS.png",
     "series": "f-zero",
     "smashDebut": "n64",
     "yearIntroduced": "1990"
@@ -86,6 +98,7 @@
   {
     "id": "12",
     "name": "Jigglypuff",
+    "squarePicture": "http://localhost:8080/images/square/jigglypuffS.png",
     "series": "pokemon",
     "smashDebut": "n64",
     "yearIntroduced": "1996"
@@ -93,6 +106,7 @@
   {
     "id": "13",
     "name": "Peach",
+    "squarePicture": "http://localhost:8080/images/square/peachS.png",
     "series": "super-mario",
     "smashDebut": "melee",
     "yearIntroduced": "1985"
@@ -100,6 +114,7 @@
   {
     "id": "13-5",
     "name": "Daisy",
+    "squarePicture": "http://localhost:8080/images/square/daisyS.png",
     "series": "super-mario",
     "smashDebut": "ultimate",
     "yearIntroduced": "1989"
@@ -107,6 +122,7 @@
   {
     "id": "14",
     "name": "Bowser",
+    "squarePicture": "http://localhost:8080/images/square/bowserS.png",
     "series": "super-mario",
     "smashDebut": "melee",
     "yearIntroduced": "1985"
@@ -114,6 +130,7 @@
   {
     "id": "15",
     "name": "Ice Climbers",
+    "squarePicture": "http://localhost:8080/images/square/iceclimberS.png",
     "series": "ice-climber",
     "smashDebut": "melee",
     "yearIntroduced": "1985"
@@ -121,6 +138,7 @@
   {
     "id": "16",
     "name": "Sheik",
+    "squarePicture": "http://localhost:8080/images/square/sheikS.png",
     "series": "the-legend-of-zelda",
     "smashDebut": "melee",
     "yearIntroduced": "1998"
@@ -128,6 +146,7 @@
   {
     "id": "17",
     "name": "Zelda",
+    "squarePicture": "http://localhost:8080/images/square/zeldaS.png",
     "series": "the-legend-of-zelda",
     "smashDebut": "melee",
     "yearIntroduced": "1986"
@@ -135,6 +154,7 @@
   {
     "id": "18",
     "name": "Dr. Mario",
+    "squarePicture": "http://localhost:8080/images/square/drmarioS.png",
     "series": "super-mario",
     "smashDebut": "melee",
     "yearIntroduced": "1990"
@@ -142,6 +162,7 @@
   {
     "id": "19",
     "name": "Pichu",
+    "squarePicture": "http://localhost:8080/images/square/pichuS.png",
     "series": "pokemon",
     "smashDebut": "melee",
     "yearIntroduced": "1999"
@@ -149,6 +170,7 @@
   {
     "id": "20",
     "name": "Falco",
+    "squarePicture": "http://localhost:8080/images/square/falcoS.png",
     "series": "star-fox",
     "smashDebut": "melee",
     "yearIntroduced": "1993"
@@ -156,6 +178,7 @@
   {
     "id": "21",
     "name": "Marth",
+    "squarePicture": "http://localhost:8080/images/square/marthS.png",
     "series": "fire-emblem",
     "smashDebut": "melee",
     "yearIntroduced": "1990"
@@ -163,6 +186,7 @@
   {
     "id": "21-5",
     "name": "Lucina",
+    "squarePicture": "http://localhost:8080/images/square/lucinaS.png",
     "series": "fire-emblem",
     "smashDebut": "ssb4",
     "yearIntroduced": "2012"
@@ -170,6 +194,7 @@
   {
     "id": "22",
     "name": "Young Link",
+    "squarePicture": "http://localhost:8080/images/square/younglinkS.png",
     "series": "the-legend-of-zelda",
     "smashDebut": "melee",
     "yearIntroduced": "1998"
@@ -177,6 +202,7 @@
   {
     "id": "23",
     "name": "Ganondorf",
+    "squarePicture": "http://localhost:8080/images/square/ganonS.png",
     "series": "the-legend-of-zelda",
     "smashDebut": "melee",
     "yearIntroduced": "1998"
@@ -184,6 +210,7 @@
   {
     "id": "24",
     "name": "Mewtwo",
+    "squarePicture": "http://localhost:8080/images/square/mewtwoS.png",
     "series": "pokemon",
     "smashDebut": "melee",
     "yearIntroduced": "1996"
@@ -191,6 +218,7 @@
   {
     "id": "25",
     "name": "Roy",
+    "squarePicture": "http://localhost:8080/images/square/royS.png",
     "series": "fire-emblem",
     "smashDebut": "melee",
     "yearIntroduced": "2001"
@@ -198,6 +226,7 @@
   {
     "id": "25-5",
     "name": "Chrom",
+    "squarePicture": "http://localhost:8080/images/square/chromS.png",
     "series": "fire-emblem",
     "smashDebut": "ultimate",
     "yearIntroduced": "2012"
@@ -205,6 +234,7 @@
   {
     "id": "26",
     "name": "Mr. Game & Watch",
+    "squarePicture": "http://localhost:8080/images/square/gameandwatchS.png",
     "series": "game-&-watch",
     "smashDebut": "melee",
     "yearIntroduced": "1980"
@@ -212,6 +242,7 @@
   {
     "id": "27",
     "name": "Meta Knight",
+    "squarePicture": "http://localhost:8080/images/square/metaknightS.png",
     "series": "kirby",
     "smashDebut": "brawl",
     "yearIntroduced": "1993"
@@ -219,6 +250,7 @@
   {
     "id": "28",
     "name": "Pit",
+    "squarePicture": "http://localhost:8080/images/square/pitS.png",
     "series": "kid-icarus",
     "smashDebut": "brawl",
     "yearIntroduced": "1986"
@@ -226,6 +258,7 @@
   {
     "id": "28-5",
     "name": "Dark Pit",
+    "squarePicture": "http://localhost:8080/images/square/darkpitS.png",
     "series": "kid-icarus",
     "smashDebut": "ssb4",
     "yearIntroduced": "2012"
@@ -233,6 +266,7 @@
   {
     "id": "29",
     "name": "Zero Suit Samus",
+    "squarePicture": "http://localhost:8080/images/square/zerosuitsamusS.png",
     "series": "metroid",
     "smashDebut": "brawl",
     "yearIntroduced": "2004"
@@ -240,13 +274,15 @@
   {
     "id": "30",
     "name": "Wario",
-    "series": "Wario",
+    "squarePicture": "http://localhost:8080/images/square/warioS.png",
+    "series": "wario",
     "smashDebut": "brawl",
     "yearIntroduced": "1992"
   },
   {
     "id": "31",
     "name": "Snake",
+    "squarePicture": "http://localhost:8080/images/square/snakeS.png",
     "series": "metal-gear",
     "smashDebut": "brawl",
     "yearIntroduced": "1987"
@@ -254,6 +290,7 @@
   {
     "id": "32",
     "name": "Ike",
+    "squarePicture": "http://localhost:8080/images/square/ikeS.png",
     "series": "fire-emblem",
     "smashDebut": "brawl",
     "yearIntroduced": "2005"
@@ -261,6 +298,7 @@
   {
     "id": "33",
     "name": "Squirtle",
+    "squarePicture": "http://localhost:8080/images/square/squirtleS.png",
     "series": "pokemon",
     "smashDebut": "brawl",
     "yearIntroduced": "1996"
@@ -268,6 +306,7 @@
   {
     "id": "34",
     "name": "Ivysaur",
+    "squarePicture": "http://localhost:8080/images/square/ivysaurS.png",
     "series": "pokemon",
     "smashDebut": "brawl",
     "yearIntroduced": "1996"
@@ -275,6 +314,7 @@
   {
     "id": "35",
     "name": "Charizard",
+    "squarePicture": "http://localhost:8080/images/square/charizardS.png",
     "series": "pokemon",
     "smashDebut": "brawl",
     "yearIntroduced": "1996"
@@ -282,6 +322,7 @@
   {
     "id": "36",
     "name": "Diddy Kong",
+    "squarePicture": "http://localhost:8080/images/square/diddykongS.png",
     "series": "donkey-kong",
     "smashDebut": "brawl",
     "yearIntroduced": "1994"
@@ -289,6 +330,7 @@
   {
     "id": "37",
     "name": "Lucas",
+    "squarePicture": "http://localhost:8080/images/square/lucasS.png",
     "series": "earthbound",
     "smashDebut": "brawl",
     "yearIntroduced": "2006"
@@ -296,6 +338,7 @@
   {
     "id": "38",
     "name": "Sonic",
+    "squarePicture": "http://localhost:8080/images/square/sonicS.png",
     "series": "sonic-the-hedgehog",
     "smashDebut": "brawl",
     "yearIntroduced": "1991"
@@ -303,6 +346,7 @@
   {
     "id": "39",
     "name": "King Dedede",
+    "squarePicture": "http://localhost:8080/images/square/dededeS.png",
     "series": "kirby",
     "smashDebut": "brawl",
     "yearIntroduced": "1992"
@@ -310,6 +354,7 @@
   {
     "id": "40",
     "name": "Olimar",
+    "squarePicture": "http://localhost:8080/images/square/olimarS.png",
     "series": "pikmin",
     "smashDebut": "brawl",
     "yearIntroduced": "2001"
@@ -317,6 +362,7 @@
   {
     "id": "41",
     "name": "Lucario",
+    "squarePicture": "http://localhost:8080/images/square/lucarioS.png",
     "series": "pokemon",
     "smashDebut": "brawl",
     "yearIntroduced": "2006"
@@ -324,6 +370,7 @@
   {
     "id": "42",
     "name": "R.O.B.",
+    "squarePicture": "http://localhost:8080/images/square/robS.png",
     "series": "rob",
     "smashDebut": "brawl",
     "yearIntroduced": "1985"
@@ -331,6 +378,7 @@
   {
     "id": "43",
     "name": "Toon Link",
+    "squarePicture": "http://localhost:8080/images/square/toonlinkS.png",
     "series": "the-legend-of-zelda",
     "smashDebut": "brawl",
     "yearIntroduced": "2002"
@@ -338,6 +386,7 @@
   {
     "id": "44",
     "name": "Wolf",
+    "squarePicture": "http://localhost:8080/images/square/wolfS.png",
     "series": "star-fox",
     "smashDebut": "brawl",
     "yearIntroduced": "1997"
@@ -345,6 +394,7 @@
   {
     "id": "45",
     "name": "Villager",
+    "squarePicture": "http://localhost:8080/images/square/villagerS.png",
     "series": "animal-crossing",
     "smashDebut": "ssb4",
     "yearIntroduced": "2001"
@@ -352,6 +402,7 @@
   {
     "id": "46",
     "name": "Mega Man",
+    "squarePicture": "http://localhost:8080/images/square/megamanS.png",
     "series": "mega-man",
     "smashDebut": "ssb4",
     "yearIntroduced": "1987"
@@ -359,6 +410,7 @@
   {
     "id": "47",
     "name": "Wii Fit Trainer",
+    "squarePicture": "http://localhost:8080/images/square/wiifittrainerS.png",
     "series": "wii-fit",
     "smashDebut": "ssb4",
     "yearIntroduced": "2007"
@@ -366,6 +418,7 @@
   {
     "id": "48",
     "name": "Rosalina & Luma",
+    "squarePicture": "http://localhost:8080/images/square/rosalinaS.png",
     "series": "super-mario",
     "smashDebut": "ssb4",
     "yearIntroduced": "2007"
@@ -373,6 +426,7 @@
   {
     "id": "49",
     "name": "Little Mac",
+    "squarePicture": "http://localhost:8080/images/square/littlemacS.png",
     "series": "punch-out",
     "smashDebut": "ssb4",
     "yearIntroduced": "1983"
@@ -380,13 +434,15 @@
   {
     "id": "50",
     "name": "Greninja",
+    "squarePicture": "http://localhost:8080/images/square/greninjaS.png",
     "series": "pokemon",
     "smashDebut": "ssb4",
     "yearIntroduced": "2013"
   },
   {
     "id": "51",
-    "name": "Mii brawler",
+    "name": "Mii Brawler",
+    "squarePicture": "http://localhost:8080/images/square/miibrawlerS.png",
     "series": "mii",
     "smashDebut": "ssb4",
     "yearIntroduced": "2006"
@@ -394,6 +450,7 @@
   {
     "id": "52",
     "name": "Mii Swordfighter",
+    "squarePicture": "http://localhost:8080/images/square/miiswordfighterS.png",
     "series": "mii",
     "smashDebut": "ssb4",
     "yearIntroduced": "2006"
@@ -401,6 +458,7 @@
   {
     "id": "53",
     "name": "Mii Gunner",
+    "squarePicture": "http://localhost:8080/images/square/miigunnerS.png",
     "series": "mii",
     "smashDebut": "ssb4",
     "yearIntroduced": "2006"
@@ -408,6 +466,7 @@
   {
     "id": "54",
     "name": "Palutena",
+    "squarePicture": "http://localhost:8080/images/square/palutenaS.png",
     "series": "kid-icarus",
     "smashDebut": "ssb4",
     "yearIntroduced": "1986"
@@ -415,6 +474,7 @@
   {
     "id": "55",
     "name": "Pac-Man",
+    "squarePicture": "http://localhost:8080/images/square/pacmanS.png",
     "series": "pac-man",
     "smashDebut": "ssb4",
     "yearIntroduced": "1980"
@@ -422,6 +482,7 @@
   {
     "id": "56",
     "name": "Robin",
+    "squarePicture": "http://localhost:8080/images/square/robinS.png",
     "series": "fire-emblem",
     "smashDebut": "ssb4",
     "yearIntroduced": "2012"
@@ -429,6 +490,7 @@
   {
     "id": "57",
     "name": "Shulk",
+    "squarePicture": "http://localhost:8080/images/square/shulkS.png",
     "series": "xenoblade",
     "smashDebut": "ssb4",
     "yearIntroduced": "2010"
@@ -436,6 +498,7 @@
   {
     "id": "58",
     "name": "Bowser Jr.",
+    "squarePicture": "http://localhost:8080/images/square/bowserjrS.png",
     "series": "super-mario",
     "smashDebut": "ssb4",
     "yearIntroduced": "2002"
@@ -443,6 +506,7 @@
   {
     "id": "59",
     "name": "Duck Hunt",
+    "squarePicture": "http://localhost:8080/images/square/duckhuntS.png",
     "series": "duck-hunt",
     "smashDebut": "ssb4",
     "yearIntroduced": "1984"
@@ -450,6 +514,7 @@
   {
     "id": "60",
     "name": "Ryu",
+    "squarePicture": "http://localhost:8080/images/square/ryuS.png",
     "series": "street-fighter",
     "smashDebut": "ssb4",
     "yearIntroduced": "1987"
@@ -457,6 +522,7 @@
   {
     "id": "60-5",
     "name": "Ken",
+    "squarePicture": "http://localhost:8080/images/square/kenS.png",
     "series": "street-fighter",
     "smashDebut": "ultimate",
     "yearIntroduced": "1987"
@@ -464,6 +530,7 @@
   {
     "id": "61",
     "name": "Cloud",
+    "squarePicture": "http://localhost:8080/images/square/cloudS.png",
     "series": "final-fantasy",
     "smashDebut": "ssb4",
     "yearIntroduced": "1997"
@@ -471,6 +538,7 @@
   {
     "id": "62",
     "name": "Corrin",
+    "squarePicture": "http://localhost:8080/images/square/corrinS.png",
     "series": "fire-emblem",
     "smashDebut": "ssb4",
     "yearIntroduced": "2015"
@@ -478,6 +546,7 @@
   {
     "id": "63",
     "name": "Bayonetta",
+    "squarePicture": "http://localhost:8080/images/square/bayonettaS.png",
     "series": "bayonetta",
     "smashDebut": "ssb4",
     "yearIntroduced": "2009"
@@ -485,6 +554,7 @@
   {
     "id": "64",
     "name": "Inkling",
+    "squarePicture": "http://localhost:8080/images/square/inklingS.png",
     "series": "splatoon",
     "smashDebut": "ultimate",
     "yearIntroduced": "2015"
@@ -492,6 +562,7 @@
   {
     "id": "65",
     "name": "Ridley",
+    "squarePicture": "http://localhost:8080/images/square/ridleyS.png",
     "series": "metroid",
     "smashDebut": "ultimate",
     "yearIntroduced": "1986"
@@ -499,6 +570,7 @@
   {
     "id": "66",
     "name": "Simon",
+    "squarePicture": "http://localhost:8080/images/square/simonS.png",
     "series": "castlevania",
     "smashDebut": "ultimate",
     "yearIntroduced": "1986"
@@ -506,6 +578,7 @@
   {
     "id": "66-5",
     "name": "Richter",
+    "squarePicture": "http://localhost:8080/images/square/richterS.png",
     "series": "castlevania",
     "smashDebut": "ultimate",
     "yearIntroduced": "1993"
@@ -513,6 +586,7 @@
   {
     "id": "67",
     "name": "King K. Rool",
+    "squarePicture": "http://localhost:8080/images/square/kingkroolS.png",
     "series": "donkey-kong",
     "smashDebut": "ultimate",
     "yearIntroduced": "1994"
@@ -520,6 +594,7 @@
   {
     "id": "68",
     "name": "Isabelle",
+    "squarePicture": "http://localhost:8080/images/square/isabelleS.png",
     "series": "animal-crossing",
     "smashDebut": "ultimate",
     "yearIntroduced": "2012"
@@ -527,6 +602,7 @@
   {
     "id": "69",
     "name": "Incineroar",
+    "squarePicture": "http://localhost:8080/images/square/incineroarS.png",
     "series": "pokemon",
     "smashDebut": "ultimate",
     "yearIntroduced": "2016"
@@ -534,6 +610,7 @@
   {
     "id": "70",
     "name": "Piranha Plant",
+    "squarePicture": "http://localhost:8080/images/square/piranhaplantS.png",
     "series": "super-mario",
     "smashDebut": "ultimate",
     "yearIntroduced": "1985"
@@ -541,6 +618,7 @@
   {
     "id": "71",
     "name": "Joker",
+    "squarePicture": "http://localhost:8080/images/square/jokerS.png",
     "series": "persona",
     "smashDebut": "ultimate",
     "yearIntroduced": "2015"
@@ -548,6 +626,7 @@
   {
     "id": "72",
     "name": "Hero",
+    "squarePicture": "http://localhost:8080/images/square/heroS.png",
     "series": "dragon-quest",
     "smashDebut": "ultimate",
     "yearIntroduced": "1986"
@@ -555,6 +634,7 @@
   {
     "id": "73",
     "name": "Banjo & Kazooie",
+    "squarePicture": "http://localhost:8080/images/square/banjoS.png",
     "series": "banjo-kazooie",
     "smashDebut": "ultimate",
     "yearIntroduced": "1998"
@@ -562,6 +642,7 @@
   {
     "id": "74",
     "name": "Terry",
+    "squarePicture": "http://localhost:8080/images/square/terryS.png",
     "series": "fatal-fury",
     "smashDebut": "ultimate",
     "yearIntroduced": "1991"
@@ -569,6 +650,7 @@
   {
     "id": "75",
     "name": "Byleth",
+    "squarePicture": "http://localhost:8080/images/square/bylethS.png",
     "series": "fire-emblem",
     "smashDebut": "ultimate",
     "yearIntroduced": "2019"
@@ -576,6 +658,7 @@
   {
     "id": "76",
     "name": "Min Min",
+    "squarePicture": "http://localhost:8080/images/square/minminS.png",
     "series": "arms",
     "smashDebut": "ultimate",
     "yearIntroduced": "2017"
@@ -583,6 +666,7 @@
   {
     "id": "77",
     "name": "Steve",
+    "squarePicture": "http://localhost:8080/images/square/steveS.png",
     "series": "minecraft",
     "smashDebut": "ultimate",
     "yearIntroduced": "2009"
@@ -590,6 +674,7 @@
   {
     "id": "78",
     "name": "Sephiroth",
+    "squarePicture": "http://localhost:8080/images/square/sephirothS.png",
     "series": "final-fantasy",
     "smashDebut": "ultimate",
     "yearIntroduced": "1997"
@@ -597,6 +682,7 @@
   {
     "id": "79",
     "name": "Pyra",
+    "squarePicture": "http://localhost:8080/images/square/pyraS.png",
     "series": "xenoblade",
     "smashDebut": "ultimate",
     "yearIntroduced": "2017"
@@ -604,6 +690,7 @@
   {
     "id": "80",
     "name": "Mythra",
+    "squarePicture": "http://localhost:8080/images/square/mythraS.png",
     "series": "xenoblade",
     "smashDebut": "ultimate",
     "yearIntroduced": "2017"
@@ -611,6 +698,7 @@
   {
     "id": "81",
     "name": "Kazuya",
+    "squarePicture": "http://localhost:8080/images/square/kazuyaS.png",
     "series": "tekken",
     "smashDebut": "ultimate",
     "yearIntroduced": "1994"
@@ -618,6 +706,7 @@
   {
     "id": "82",
     "name": "Sora",
+    "squarePicture": "http://localhost:8080/images/square/soraS.png",
     "series": "kingdom-hearts",
     "smashDebut": "ultimate",
     "yearIntroduced": "2002"
