@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static("public"));
 
-app.use("/", characterRoutes);
+app.use("/characters", characterRoutes);
 
 app.listen(PORT, () => {
   console.log("The server is now online on port " + PORT);

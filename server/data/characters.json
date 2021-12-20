@@ -322,7 +322,7 @@
   {
     "id": "36",
     "name": "Diddy Kong",
-    "squarePicture": "http://localhost:8080/images/square/diddykongS.png",
+    "squarePicture": "http://localhost:8080/images/square/diddyS.png",
     "series": "donkey-kong",
     "smashDebut": "brawl",
     "yearIntroduced": "1994"
