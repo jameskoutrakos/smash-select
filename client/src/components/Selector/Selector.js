@@ -1,6 +1,7 @@
 import "./Selector.scss";
 
 import { Component } from "react";
+import { Link } from "react-router-dom";
 
 class Selector extends Component {
   componentDidMount = () => {
@@ -17,10 +18,14 @@ class Selector extends Component {
             {this.props.characters &&
               this.props.characters.map((character) => {
                 return (
-                  <li className="select__slot" key={character.id}>
+                  <Link
+                    to={`/${character.id}`}
+                    className="select__slot"
+                    key={character.id}
+                  >
                     <img src={character.squarePicture} alt={character.name} />
-                    <p>{character.name}</p>
-                  </li>
+                    <p className="select__name">{character.name}</p>
+                  </Link>
                 );
               })}
           </ul>
