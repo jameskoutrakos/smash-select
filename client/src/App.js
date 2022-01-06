@@ -1,7 +1,10 @@
 import "./App.scss";
 
+import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
 import { Component } from "react";
 import axios from "axios";
+
+import Selector from "./components/Selector/Selector";
 
 class App extends Component {
   state = {
@@ -21,27 +24,23 @@ class App extends Component {
 
   componentDidMount = () => {
     console.log("APP MOUNTED");
-    this.getCharacters();
   };
 
   render() {
     return (
-      <article className="select">
-        <section className="select__container">
-          <h1 className="select__header">The Smash Bros Select</h1>
-          <ul className="select__roster">
-            {this.state.characters &&
-              this.state.characters.map((character) => {
-                return (
-                  <li className="select__slot" key={character.id}>
-                    <img src={character.squarePicture} alt={character.name} />
-                    <p>{character.name}</p>
-                  </li>
-                );
-              })}
-          </ul>
-        </section>
-      </article>
+      <BrowserRouter>
+        <Route
+          exact
+          path="/"
+          render={(routerProps) => (
+            <Selector
+              characters={this.state.characters}
+              getCharacters={this.getCharacters}
+              {...routerProps}
+            />
+          )}
+        />
+      </BrowserRouter>
     );
   }
 }

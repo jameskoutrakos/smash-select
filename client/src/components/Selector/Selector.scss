@@ -1,0 +1,18 @@
+@use "../../styles/partials/global" as *;
+
+.select {
+  &__container {
+    display: flex;
+    flex-direction: column;
+  }
+  &__roster {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  &__slot {
+    display: flex;
+    flex-direction: column;
+    width: 5rem;
+  }
+}
