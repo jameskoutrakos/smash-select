@@ -1,9 +1,19 @@
 @use "../../styles/partials/global" as *;
 
 .select {
+  display: flex;
+  flex-direction: column;
+  &__header {
+    margin: 1rem auto;
+  }
   &__container {
     display: flex;
     flex-direction: column;
+    max-width: 1000px;
+    margin: 1rem auto;
+    padding: 1rem;
+    background-color: lightblue;
+    border-radius: 0.75rem;
   }
   &__roster {
     display: flex;
@@ -15,8 +25,10 @@
     flex-direction: column;
     width: 5rem;
     text-decoration: none;
+    margin: 0.25rem;
   }
   &__name {
     color: black;
+    font-size: 1rem;
   }
 }

@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.select {
+  display: flex;
+  flex-direction: column;
+}
+.select__header {
+  margin: 1rem auto;
+}
+.select__container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1000px;
+  margin: 1rem auto;
+  padding: 1rem;
+  background-color: lightblue;
+  border-radius: 0.75rem;
+}
+.select__roster {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.select__slot {
+  display: flex;
+  flex-direction: column;
+  width: 5rem;
+  text-decoration: none;
+  margin: 0.25rem;
+}
+.select__name {
+  color: black;
+  font-size: 1rem;
+}/*# sourceMappingURL=Selector.css.map */

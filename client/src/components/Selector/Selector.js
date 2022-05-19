@@ -12,14 +12,14 @@ class Selector extends Component {
   render() {
     return (
       <article className="select">
+        <h1 className="select__header">The Smash Bros Select</h1>
         <section className="select__container">
-          <h1 className="select__header">The Smash Bros Select</h1>
           <ul className="select__roster">
             {this.props.characters &&
               this.props.characters.map((character) => {
                 return (
                   <Link
-                    to={`/${character.id}`}
+                    to={`/select/${character.id}`}
                     className="select__slot"
                     key={character.id}
                   >

@@ -5,10 +5,10 @@ import { Component } from "react";
 import axios from "axios";
 
 import Selector from "./components/Selector/Selector";
+import CharacterPage from "./components/CharacterPage/CharacterPage";
 
 class App extends Component {
   state = {
-    currentCharacter: {},
     characters: [],
   };
 
@@ -36,6 +36,17 @@ class App extends Component {
             <Selector
               characters={this.state.characters}
               getCharacters={this.getCharacters}
+              {...routerProps}
+            />
+          )}
+        />
+        <Route
+          exact
+          path="/select/:id"
+          render={(routerProps) => (
+            <CharacterPage
+              currentCharacter={this.state.currentCharacter}
+              getCurrentCharacter={this.getCurrentCharacter}
               {...routerProps}
             />
           )}
